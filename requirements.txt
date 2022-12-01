@@ -19,7 +19,7 @@ build==0.8.0
 twine==4.0.1
 
 # Tests & Linting
-autoflake==1.4
+autoflake==2.0.0
 black==22.8.0
 coverage==6.4.4
 cryptography==38.0.1
